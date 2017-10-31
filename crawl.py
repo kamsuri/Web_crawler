@@ -4,7 +4,7 @@ import urlparse
 import requests
 
 
-url = raw_input("Enter a website to extract the URL's from: ")
+url = raw_input("Enter website's link to extract the URL's from: ")
 url="http://"+url+"/";
 urls = [url]
 visited = [url]
