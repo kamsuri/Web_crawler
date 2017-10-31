@@ -9,6 +9,7 @@ url="http://"+url+"/";
 urls = [url]
 visited = [url]
 print url
+#loop for URL length
 while len(urls)>0:
     try:
         html=urllib.urlopen(urls[0]).read()
