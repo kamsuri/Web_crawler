@@ -1,3 +1,3 @@
 # Web_crawler
 
-Scraps all the URLs from a given link. 
+Scraps content all the URLs from a given link. 
