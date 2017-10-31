@@ -1,3 +1,3 @@
 # Web_crawler
 
-It is used to scrap all the URLs from a given link. 
+Scraps content all the URLs from a given link. 
